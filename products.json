@@ -1,0 +1,242 @@
+[
+  {
+    "id": 6100,
+    "name": "Bureau 120x80 cm, wit blad, zwart metalen frame",
+    "price": 229.9,
+    "image": "images/01_bureau_120x80_wit_zwart_frame.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/e800ceb3-0bdc-46f8-acfc-15dd64698b69/",
+    "category": "Bureaus"
+  },
+  {
+    "id": 6101,
+    "name": "Bureau 160x80 cm, eiken blad, zwart metalen frame",
+    "price": 302.5,
+    "image": "images/02_bureau_160x80_eiken_zwart_frame.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/c007ac73-9a9c-4b8c-9b65-9c2a6b812d76/",
+    "category": "Bureaus"
+  },
+  {
+    "id": 6102,
+    "name": "Hoekbureau 180x120 cm, licht eiken, links/rechts draaibaar",
+    "price": 387.2,
+    "image": "images/03_hoekbureau_180x120_licht_eiken.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/b50ebf4d-7342-46e8-aa98-d5b178573264/",
+    "category": "Bureaus"
+  },
+  {
+    "id": 6103,
+    "name": "Elektrisch zit-sta bureau 160x80 cm, 2-motorig, geheugenfunctie",
+    "price": 605,
+    "image": "images/04_elektrisch_zit_sta_bureau.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/4534bf51-b098-48f8-a36f-b0feff9fdb23/",
+    "category": "Bureaus"
+  },
+  {
+    "id": 6104,
+    "name": "Kantoorkast 80x40x120 cm, 2 draaideuren, afsluitbaar",
+    "price": 266.2,
+    "image": "images/05_kantoorkast_2_deuren.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/3477fb98-639e-45f0-b9c9-12b50028fe9a/",
+    "category": "Kasten"
+  },
+  {
+    "id": 6105,
+    "name": "Dossierkast 46x62x102 cm, 3 laden voor A4-hangmappen",
+    "price": 338.8,
+    "image": "images/06_dossierkast_3_laden.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/115bc216-5404-456d-abcf-9998b5bad0dd/",
+    "category": "Kasten"
+  },
+  {
+    "id": 6106,
+    "name": "Archiefkast 195x92x42 cm, 4 legplanken, afsluitbaar",
+    "price": 423.5,
+    "image": "images/07_archiefkast_4_legplanken.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/16eb812f-ff38-4be1-bd59-81e05a00b115/",
+    "category": "Kasten"
+  },
+  {
+    "id": 6107,
+    "name": "Vergadertafel 180x90 cm, 8-persoons, kabeldoorvoer",
+    "price": 532.4,
+    "image": "images/08_vergadertafel_180x90.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/e3d497ff-b6c6-4eb4-8006-ae53ebad5fc4/",
+    "category": "Tafels"
+  },
+  {
+    "id": 6108,
+    "name": "Vergadertafel 240x120 cm, ovaal blad, 8-10 personen",
+    "price": 726,
+    "image": "images/09_vergadertafel_ovaal_240x120.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/228a66ef-ef3c-45c6-960e-cc8082194f0e/",
+    "category": "Tafels"
+  },
+  {
+    "id": 6109,
+    "name": "Conferentietafel 300x120 cm, modulair, 10-12 personen",
+    "price": 1089,
+    "image": "images/10_conferentietafel_300x120.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/a2fcc6aa-8eeb-44f4-9dee-04b5741627af/",
+    "category": "Tafels"
+  },
+  {
+    "id": 6110,
+    "name": "Bureaustoel NPR ergonomisch, mesh rug, verstelbare armleuningen",
+    "price": 205.7,
+    "image": "images/11_bureaustoel_npr_mesh.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/584ffdac-18f9-4b00-ace0-790158b3d5c0/",
+    "category": "Stoelen"
+  },
+  {
+    "id": 6111,
+    "name": "Ergonomische bureaustoel met hoofdsteun, lendensteun en 3D-armleuningen",
+    "price": 363,
+    "image": "images/12_ergonomische_bureaustoel_hoofdsteun.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/3fc6ba38-50e5-45cd-9280-cbe2ec0b419b/",
+    "category": "Stoelen"
+  },
+  {
+    "id": 6112,
+    "name": "Directiestoel zwart kunstleer, hoge rug, kantelmechanisme",
+    "price": 484,
+    "image": "images/13_directiestoel_zwart_kunstleer.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/a6aaf70a-a281-47d1-ac48-b54c9bc54eea/",
+    "category": "Stoelen"
+  },
+  {
+    "id": 6113,
+    "name": "Vergaderstoel gestoffeerd, zwart frame, stapelbaar",
+    "price": 108.9,
+    "image": "images/14_vergaderstoel_zwart.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/ff46d8f3-d125-4971-a71b-cf37658605e5/",
+    "category": "Stoelen"
+  },
+  {
+    "id": 6114,
+    "name": "Kantinestoel kunststof kuip, 4 metalen poten, stapelbaar",
+    "price": 84.7,
+    "image": "images/15_kantinestoel_kunststof.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/2a6efb9e-012f-4d91-89c2-349bbc38d948/",
+    "category": "Stoelen"
+  },
+  {
+    "id": 6115,
+    "name": "Barkruk 75 cm zithoogte, kunstleer, metalen onderstel",
+    "price": 121,
+    "image": "images/16_barkruk_75cm.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/26d1aac7-a803-44c5-80c3-4dd900c7dcd9/",
+    "category": "Stoelen"
+  },
+  {
+    "id": 6116,
+    "name": "Kantinetafel 120x80 cm, HPL blad, afgeronde hoeken",
+    "price": 242,
+    "image": "images/17_kantinetafel_120x80.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/fd56eac3-ddce-4147-8249-48e08e8b2041/",
+    "category": "Tafels"
+  },
+  {
+    "id": 6117,
+    "name": "Receptiebalie 180x80x110 cm, wit met houtaccent",
+    "price": 847,
+    "image": "images/18_receptiebalie_wit_houtaccent.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/473a3d05-e4a7-4dc7-8a22-7e049305902b/",
+    "category": "Receptie"
+  },
+  {
+    "id": 6118,
+    "name": "Baliehoek 90 graden, wit, passend bij receptiebalie",
+    "price": 605,
+    "image": "images/19_baliehoek_90_graden.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/29610a6c-e179-42ba-ba20-a52bbf5e1eeb/",
+    "category": "Receptie"
+  },
+  {
+    "id": 6119,
+    "name": "Lounge bank 2-zits, grijze stof, zakelijke wachtruimte",
+    "price": 605,
+    "image": "images/20_lounge_bank_2_zits_grijs.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/a91c40b4-ae7a-4bb5-bf29-0fe8459779ae/",
+    "category": "Lounge"
+  },
+  {
+    "id": 6120,
+    "name": "Lounge bank 3-zits, donkergrijze stof, zakelijke wachtruimte",
+    "price": 847,
+    "image": "images/21_lounge_bank_3_zits_donkergrijs.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/bd25d91a-9450-428b-b1a0-433580b808bf/",
+    "category": "Lounge"
+  },
+  {
+    "id": 6121,
+    "name": "Fauteuil met hoge rug, grijze stof, houten poten",
+    "price": 363,
+    "image": "images/22_fauteuil_hoge_rug_grijs.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/c33864c5-c8dd-492f-8b9e-29b835c0ef39/",
+    "category": "Lounge"
+  },
+  {
+    "id": 6122,
+    "name": "Salontafel 120x60 cm, eiken blad, zwart metalen frame",
+    "price": 217.8,
+    "image": "images/23_salontafel_eiken_120x60.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/1c716ffc-fa27-43e5-b64f-b155d8e6b352/",
+    "category": "Lounge"
+  },
+  {
+    "id": 6123,
+    "name": "Bijzettafel Ø50 cm, eiken blad, zwart metalen frame",
+    "price": 108.9,
+    "image": "images/24_bijzettafel_eiken_50cm.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/26029fb2-f933-49f7-8d34-37cc1f775b63/",
+    "category": "Lounge"
+  },
+  {
+    "id": 6124,
+    "name": "Boekenkast 80x35x190 cm, 5 legplanken, eiken decor",
+    "price": 290.4,
+    "image": "images/25_boekenkast_eiken_5_planken.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/b7e450cf-5464-485a-8382-c630e1cffa21/",
+    "category": "Kasten"
+  },
+  {
+    "id": 6125,
+    "name": "Kledingkast personeel 180x80x50 cm, 2 deuren, kledingroede",
+    "price": 435.6,
+    "image": "images/26_kledingkast_personeel.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/2ae42fac-8dde-4d73-ad82-94d006615f1e/",
+    "category": "Kasten"
+  },
+  {
+    "id": 6126,
+    "name": "Lockerkast 6 vakken, staal, cilindersloten, antraciet",
+    "price": 363,
+    "image": "images/27_lockerkast_6_vakken_antraciet.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/a6f08b54-5ac3-4940-a82c-dbe220a9d57b/",
+    "category": "Kasten"
+  },
+  {
+    "id": 6127,
+    "name": "Akoestisch bureauscherm 160x40 cm, PET-vilt, geluidsdempend",
+    "price": 181.5,
+    "image": "images/28_akoestisch_bureauscherm.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/d6caba13-7957-4144-9ee0-8580b3194e18/",
+    "category": "Accessoires"
+  },
+  {
+    "id": 6128,
+    "name": "Printerkast 80x50x75 cm, 2 deuren, kabeldoorvoer",
+    "price": 193.6,
+    "image": "images/29_printerkast_wit.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/c0993ed7-8161-43cd-b861-c440f0b397cb/",
+    "category": "Accessoires"
+  },
+  {
+    "id": 6129,
+    "name": "TV-meubel kantoor 160x45x55 cm, kabelmanagement, eiken decor",
+    "price": 302.5,
+    "image": "images/30_tv_meubel_kantoor_eiken.jpg",
+    "url": "https://nl.penworldwide.org/buybuttons/nl01125/btn/78914ac1-f006-4992-8555-fc2ed16eb5ee/",
+    "category": "Accessoires"
+  }
+]
